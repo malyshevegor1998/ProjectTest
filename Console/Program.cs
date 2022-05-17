@@ -10,7 +10,7 @@ namespace Console
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Leha privet!");
+            System.Console.WriteLine("Egor privet!");
             System.Console.ReadLine();
         }
     }
